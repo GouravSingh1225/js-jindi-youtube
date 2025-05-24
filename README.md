@@ -1,2 +1,2 @@
-# js-jindi-youtube
+# js-Hindi-youtube
 A code repo for javascript series at chai aur code youtube channel
